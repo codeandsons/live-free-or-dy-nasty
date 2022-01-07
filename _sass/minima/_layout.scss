@@ -340,3 +340,17 @@
     width: calc(50% - (#{$spacing-unit} / 2));
   }
 }
+
+
+
+/**
+ * Custom styles
+ */
+.homepage-logo {
+  margin: auto;
+  text-align: center;
+
+  img {
+    width: 66%;
+  }
+}
