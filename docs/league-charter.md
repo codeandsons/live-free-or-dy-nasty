@@ -223,4 +223,4 @@ Rules, Settings, Scoring, and More
 - 2022-01-09 - Fix some formatting, clarify waiver priority example, and add buy-in collection period
 - 2022-01-03 - Initial draft
 
-[commissioner]: mailto:auskast03@gmail.com
+[commissioner]: mailto:livefreeordynasty@gmail.com
