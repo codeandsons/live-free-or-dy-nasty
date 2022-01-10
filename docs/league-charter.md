@@ -11,7 +11,7 @@ Rules, Settings, Scoring, and More
 ### Introduction
 
 1. This is a **Dynasty** Fantasy Football league. It requires commitment over multiple seasons. You're in it for the long haul. Players remain on the same franchise from one season to the next unless they are traded or released.
-1. The commissioner of the league is Patrick Fitzgerald.
+1. The commissioner of the league is [Patrick Fitzgerald](commissioner).
 1. There are 12 teams.
 1. Each year after the initial season, a draft is held for rookies only. See [Annual Rookie Draft](#annual-rookie-draft) for further details.
 1. The league scoring is a basic Half-PPR scheme. See [Scoring](#scoring) for further details.
@@ -86,12 +86,12 @@ Rules, Settings, Scoring, and More
       1. 3 vs. 6
       1. 4 vs. 5
    1. Week 16 - Semifinal
-      1. 1 vs. winner 3c
-      1. 2 vs. winner 3b
-      1. 5th place game - loser 3b vs. loser 3c
+      1. 1 vs. winner 2.3.3
+      1. 2 vs. winner 2.3.2
+      1. 5th place game - loser 2.3.2 vs. loser 2.3.3
    1. Week 17 - Championship
-      1. Winner 4a vs. winner 4b
-      1. 3rd place game - loser 4a vs. loser 4b
+      1. Winner 2.4.1 vs. winner 2.4.2
+      1. 3rd place game - loser 2.4.1 vs. loser 2.4.2
 1. The consolation bracket will be the **Toilet Bowl** and include the bottom 6 teams from the regular season. The loser of each matchup moves on to the next round. You do _not_ want to win (lose) this bracket.
    1. 3 rounds
    1. Single elimination
@@ -100,22 +100,23 @@ Rules, Settings, Scoring, and More
       1. 7 vs. 10
       1. 8 vs. 9
    1. Week 16 - Semipoop
-      1. 11 vs. loser 3b
-      1. 12 vs. loser 3c
-      1. 7th place game - winner 3b vs. winner 3c
+      1. 11 vs. loser 3.3.2
+      1. 12 vs. loser 3.3.3
+      1. 7th place game - winner 3.3.2 vs. winner 3.3.3
    1. Week 17 - Toilet Bowl
-      1. Loser 4a vs. loser 4b
-      1. 9th place game - winner 4a vs. winner 4b
+      1. Loser 3.4.1 vs. loser 3.4.2
+      1. 9th place game - winner 3.4.1 vs. winner 3.4.2
 
 ## Buy-In and Payouts
 
 1. Buy-in: $50
+   1. Will be collected between the start of the league year and the rookie draft.
    1. No refunds will be provided to a manager who leaves or is removed from the league.
       1. If the manager finds a replacement, they may negotiate payment transfer amongst themselves; the commissioner plays no part in these negotiations.
       1. If the manager is not able to find a replacement, the commissioner will find a replacement.
       1. If a replacement is not found during an active week of play, the commissioner will set the team lineup, but will not participate in transactions.
       1. A manager who needs to leave the league must contact the commissioner as soon as possible.
-   1. All payments will be processed via Venmo managed by Patrick Fitzgerald.
+   1. All payments will be processed via Venmo managed by [Patrick Fitzgerald](commissioner).
    1. There is currently no provision requiring advanced buy-in for future seasons.
 2. Payouts:
    1. Regular season winner: $50
@@ -134,7 +135,7 @@ Rules, Settings, Scoring, and More
 1. When waivers are processed, the manager with the highest bid wins, and their bid is deducted from their FAAB. Losing bids are not deducted.
 1. In the case of a tied bid, the manager with the higher waiver priority claims the player.
 1. Waiver priority is determined initially by draft order. Each acquisition drops the acquiring team to the bottom of the waiver priority.
-   1. For example, team A has priority 3 and team B has priority 5. Both managers bid $5 on a player. Team A wins the claim due to higher priority and drops to position 12. All teams with priority 4 and below move up one spot, so team B will now have priority 4 for the next waiver claim.
+   1. For example, team A has priority 3 and team B has priority 5. Both managers bid $5 on a player. Team A wins the claim due to higher priority and drops to position 12 and $5 is deducted from their FAAB. All teams with priority 4 and below move up one spot, so team B will now have priority 4 for the next waiver claim and their FAAB is unchanged.
 1. Waivers are processed at 4am PST daily. Players who played in a given week are locked from game time until the following Tuesday evening (processed 4am Wednesday morning).
 1. Players dropped from a roster will be on waivers a minimum of 1 day.
 
@@ -219,4 +220,7 @@ Rules, Settings, Scoring, and More
 
 ## Revision Notes
 
-2022-01-03 - Initial draft
+- 2022-01-09 - Fix some formatting, clarify waiver priority example, and add buy-in collection period
+- 2022-01-03 - Initial draft
+
+[commissioner]: mailto:auskast03@gmail.com
