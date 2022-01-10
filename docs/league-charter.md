@@ -11,7 +11,7 @@ Rules, Settings, Scoring, and More
 ### Introduction
 
 1. This is a **Dynasty** Fantasy Football league. It requires commitment over multiple seasons. You're in it for the long haul. Players remain on the same franchise from one season to the next unless they are traded or released.
-1. The commissioner of the league is [Patrick Fitzgerald](commissioner).
+1. The commissioner of the league is [Patrick Fitzgerald][commissioner].
 1. There are 12 teams.
 1. Each year after the initial season, a draft is held for rookies only. See [Annual Rookie Draft](#annual-rookie-draft) for further details.
 1. The league scoring is a basic Half-PPR scheme. See [Scoring](#scoring) for further details.
@@ -116,7 +116,7 @@ Rules, Settings, Scoring, and More
       1. If the manager is not able to find a replacement, the commissioner will find a replacement.
       1. If a replacement is not found during an active week of play, the commissioner will set the team lineup, but will not participate in transactions.
       1. A manager who needs to leave the league must contact the commissioner as soon as possible.
-   1. All payments will be processed via Venmo managed by [Patrick Fitzgerald](commissioner).
+   1. All payments will be processed via Venmo managed by [Patrick Fitzgerald][commissioner].
    1. There is currently no provision requiring advanced buy-in for future seasons.
 2. Payouts:
    1. Regular season winner: $50
