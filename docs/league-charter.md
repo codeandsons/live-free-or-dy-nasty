@@ -16,7 +16,7 @@ Rules, Settings, Scoring, and More
 1. Each year after the initial season, a draft is held for rookies only. See [Annual Rookie Draft](#annual-rookie-draft) for further details.
 1. The league scoring is a basic Half-PPR scheme. See [Scoring](#scoring) for further details.
 1. Buy-in for the league will be $50 per year. See [Buy-In and Payouts](#buy-in-and-payouts) for further details.
-1. The league is hosted on the Sleeper app (<a href="https://sleeper.app/leagues/704942669167693824" target="_blank">Live Free or Dy-nasty</a>).
+1. The league is hosted on the Sleeper app (<a href="https://sleeper.com/leagues/784614581518635008" target="_blank">Live Free or Dy-nasty</a>).
 1. League communications will be primarily conducted over Slack (<a href="https://livefreeordynasty.slack.com/" target="_blank">Live Free or Dy-nasty</a>) or via email. Sleeper chat may be used but will not be closely monitored.
 1. All rule changes will be put to a league vote hosted on Slack. See [Rule Changes](#rule-changes) for further details.
 
