@@ -15,6 +15,9 @@ jobs:
         jekyll: ["~> 3.9", "~> 4.2"]
     env:
       JEKYLL_VERSION: ${{ matrix.jekyll }}
+    defaults:
+      run:
+        working-directory: ./docs
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
@@ -23,5 +26,6 @@ jobs:
         with:
           ruby-version: 2.5
           bundler-cache: true
+          working-directory: ./docs
       - name: Run tests
         run: script/cibuild
