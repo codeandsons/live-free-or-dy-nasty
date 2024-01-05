@@ -4,6 +4,23 @@ title: Historical Standings
 permalink: /standings/
 ---
 
+### <a href="https://sleeper.com/leagues/959291823313289216/league" target="_blank">2023-24</a>
+
+| Final Standings | Team        | Manager(s)      | Max Points | Winnings |
+| --------------- | ----------- | --------------- | ---------: | -------: |
+| 1               | VikingRam83 | Lucas           |    2294.94 |  $400.00 |
+| 2               | TonyKloch   | Tony            |    2237.94 |  $150.00 |
+| 3               | kieckhafer  | Erik, Tess      |    2175.62 |          |
+| 4               | **auskast** | Patrick, Esther |    2067.54 |   $50.00 |
+| 5               | ArtK        | Art             |    2076.04 |          |
+| 6               | crustykids  | Mike            |    1884.24 |          |
+| 7               | Yooni       | Danny           |    2067.66 |          |
+| 8               | cdpham      | Calvin          |    1983.76 |          |
+| 9               | mattwong    | Matt            |    1874.32 |          |
+| 10              | richardguz  | Rich            |    1797.86 |          |
+| 11              | noahmateen  | Noah            |    1606.46 |          |
+| 12              | moknows84   | Mark            |    1573.64 |          |
+
 ### <a href="https://sleeper.com/leagues/784614581518635008/league" target="_blank">2022-23</a> [^hamlin]
 
 | Final Standings | Team           | Manager(s)      | Max Points | Winnings |
