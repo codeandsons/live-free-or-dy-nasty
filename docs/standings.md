@@ -4,6 +4,23 @@ title: Historical Standings
 permalink: /standings/
 ---
 
+### <a href="https://sleeper.com/leagues/1200203471043710976/league" target="_blank">2025-26</a>
+
+| Final Standings | Team          | Manager(s)      | Max Points | Winnings |
+| --------------- | ------------- | --------------- | ---------: | -------: |
+| 1               | auskast       | Patrick, Esther |    2014.02 |  $400.00 |
+| 2               | **TonyKloch** | Tony            |    2179.60 |  $200.00 |
+| 3               | kieckhafer    | Erik, Tess      |    2154.58 |          |
+| 4               | crustykids    | Mike            |    1824.60 |          |
+| 5               | ArtK          | Art             |    2207.64 |          |
+| 6               | mattwong      | Matt            |    2088.20 |          |
+| 7               | VikingRam83   | Lucas           |    2039.62 |          |
+| 8               | moknows84     | Mark            |    1927.58 |          |
+| 9               | richardguz    | Rich            |    1919.90 |          |
+| 10              | Yooni         | Danny           |    1897.42 |          |
+| 11              | noahmateen    | Noah            |    1876.90 |          |
+| 12              | cdpham        | Calvin          |    1805.36 |          |
+
 ### <a href="https://sleeper.com/leagues/1086735352598986752/league" target="_blank">2024-25</a>
 
 | Final Standings | Team          | Manager(s)      | Max Points | Winnings |
